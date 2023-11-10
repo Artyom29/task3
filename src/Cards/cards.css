@@ -1,0 +1,83 @@
+h1 {
+  color: white;
+  margin-bottom: 1px;
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+  color: white;
+  margin-bottom: 0;
+}
+
+.blue {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-right: 1px;
+  width: 400px;
+  display: inline-block;
+  margin-left: 10px;
+  text-align: center;
+
+}
+
+.blue h1 {
+  background-color: rgb(37, 157, 194);
+}
+
+.blue p {
+  background-color: rgb(37, 157, 194);
+}
+
+.green {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-right: 1px;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
+}
+
+.green h1 {
+  background-color: rgb(87, 187, 132);
+}
+
+.green p {
+  background-color: rgb(87, 187, 132);
+}
+
+.red {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-right: 1px;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
+}
+
+.red h1 {
+  background-color: rgb(175, 69, 65);
+
+}
+
+.red p {
+  background-color: rgb(175, 69, 65);
+}
+
+
+.black {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
+}
+
+.black h1 {
+  background-color: rgb(14, 13, 29);
+
+}
+
+.black p {
+  background-color: rgb(14, 13, 29);
+}
